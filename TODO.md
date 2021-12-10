@@ -6,6 +6,11 @@
 - file hierarchy for components
 - Hygen - templating engine -> off the bat for components and probably pages?
 
+
+## NEED TO SETUP
+- ESLINT
+- more css general files (specifically a var.scss, with some fonts and colors, margins, nav height, media for max mobile width, min dektop width, max and min tablet width, page nav z index, main nav z index, sub nav z index, notification z index, full screeen modal z index)
+
 ### Copy this for a new project and get it all setup with a new experimental part 
 ### Also lookup various publishing stuff again -> github pages and netlify
 
